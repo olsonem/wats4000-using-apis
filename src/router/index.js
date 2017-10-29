@@ -13,7 +13,7 @@ export default new Router({
       component: Rhymesaurus
     },
     {
-      path: '/',
+      path: '/rhyme-adjective',
       name: 'RhymeAdjective',
       component: RhymeAdjective
     }
